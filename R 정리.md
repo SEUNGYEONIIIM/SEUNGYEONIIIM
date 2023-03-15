@@ -11,4 +11,11 @@ typeof(k) #k의 type을 알아내는 함수
 [1] "double"
 ```
 
-### Inte
+as.integer() 함수
+```R
+n<-as.integer(5) #5를 정수로 변환하여 변수 n에 저장
+is.integer(n) #n이 정수인지
+```
+```R
+[1] TRUE #as.integer() 함수를 사용하여 double->integer 변환
+```
