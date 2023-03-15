@@ -1,5 +1,5 @@
 # R 강의노트2 복습
-### double ###
+
 R은 숫자를 Double로 인식
 ```R
 k<-5
@@ -10,3 +10,5 @@ typeof(k) #k의 type을 알아내는 함수
 [1] TRUE
 [1] "double"
 ```
+
+### Inte
